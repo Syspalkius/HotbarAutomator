@@ -1,4 +1,4 @@
-﻿;----------------STARTUP;----------------
+﻿;----------------STARTUP----------------
 SetWorkingDir %A_ScriptDir%
 global textcol := "cred"
 Gui, Font, s10 bold
